@@ -26,6 +26,7 @@ button {
     border-style: none;
     border-radius: 6px;
     padding: 8px 32px;
+    cursor: pointer;
 }
 
 .hero {
@@ -75,6 +76,7 @@ button {
 
 .intro {
     display: flex;
+    align-items: center;
     padding: 100px 0;
 }
 
