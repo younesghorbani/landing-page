@@ -95,3 +95,40 @@ button {
     max-width: 600px;
     height: auto;
 }
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.information > p {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    margin: 50px 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+}
+
+.card {
+    width: 200px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+}
+
+.card p {
+    text-align: center;
+    margin-top: 8px;
+}
