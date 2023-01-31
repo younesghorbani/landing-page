@@ -21,4 +21,44 @@ li {
 
 .hero {
     background-color: #1f2937;
+    padding-top: 16px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 60px;
+    height: auto;
+}
+
+.logo span {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.menu ul {
+    display: flex;
+}
+
+.menu ul li {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.menu ul :nth-child(2) {
+    margin: 0 16px;
 }
