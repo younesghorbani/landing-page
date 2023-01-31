@@ -75,6 +75,7 @@ button {
 
 .intro {
     display: flex;
+    padding: 100px 0;
 }
 
 .intro-text h1 {
