@@ -17,3 +17,7 @@ a {
 li {
     list-style-type: none;
 }
+
+header {
+    background-color: #1f2937;
+}
