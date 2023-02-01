@@ -1,6 +1,6 @@
 # landing-page
 
-This project is about showing some Sights of Germany and is 
+This project is about showing some sights of Germany and is 
 one of the most interesting projects that I have done 
 because, apart from using the concepts I already knew, 
 I also used one of the revolutionary concepts of 
