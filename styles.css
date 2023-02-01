@@ -27,7 +27,7 @@ button {
     font-weight: bold;
     background-color: #3882f6;
     color: #f9faf8;
-    border-style: none;
+    border: none;
     border-radius: 6px;
     padding: 8px 32px;
     cursor: pointer;
@@ -168,6 +168,7 @@ button {
 .cta-body {
     display: flex;
     justify-content: space-evenly;
+    align-items: flex-end;
     padding: 40px 80px;
     margin: 80px 0;
     background-color: #3882f6;
