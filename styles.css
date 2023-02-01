@@ -140,3 +140,23 @@ button {
     text-align: center;
     margin-top: 8px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 100px 0;
+}
+
+.quote-body {
+    max-width: 950px;
+    margin: auto;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote-author {
+    font-weight: bold;
+    text-align: right;
+}
