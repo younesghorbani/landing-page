@@ -179,3 +179,22 @@ button {
     font-weight: bold;
     margin-bottom: 8px;
 }
+
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer :first-child {
+    margin-bottom: 8px;
+}
+
+footer a {
+    color: #f9faf8;
+    text-decoration: underline;
+}
