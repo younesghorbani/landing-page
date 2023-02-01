@@ -190,7 +190,7 @@ footer {
     align-items: center;
 }
 
-footer :first-child {
+footer .author {
     margin-bottom: 8px;
 }
 
