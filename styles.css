@@ -68,7 +68,7 @@ button {
     display: flex;
 }
 
-.menu ul li,
+.menu a,
 .intro-text p {
     color: #e5e7eb;
     font-size: 18px;
