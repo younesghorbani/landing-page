@@ -1,4 +1,4 @@
-# landing-page
+# Landing Page
 
 This project is about showing some sights of Germany and is 
 one of the most interesting projects that I have done 
