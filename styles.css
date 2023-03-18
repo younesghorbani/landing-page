@@ -191,6 +191,7 @@ button {
 footer {
     background-color: #1f2937;
     color: #f9faf8;
+    font-size: 14px;
     height: 80px;
     display: flex;
     flex-direction: column;
@@ -198,11 +199,15 @@ footer {
     align-items: center;
 }
 
-footer .author {
-    margin-bottom: 8px;
-}
-
 footer a {
     color: #f9faf8;
     text-decoration: underline;
+}
+
+footer a:hover {
+    text-decoration: none;
+}
+
+footer .author {
+    margin-bottom: 8px;
 }
